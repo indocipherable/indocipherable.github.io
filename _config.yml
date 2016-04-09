@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://indocipherable.github.io
+title: Indocipherable
+tagline: Kripto untuk kemerdekaan privasi.
+description: Blog berbahasa Indonesia berisi berita, tutorial dan esai seputar hak individu atas privasi dan penggunaan teknologi kriptografi untuk memperjuangkannya.
+paginate: 5
