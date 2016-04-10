@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/indocipherable
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://indocipherable.github.io
+  * I am indocipherable (https://keybase.io/indocipherable) on keybase.
+  * I have a public key with fingerprint 1404 A7DD A342 5531 2F9B  7031 9D7A 9C44 C726 CDD4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013721164ee7adaa759228d8f48414f4683a2e1c23548ea09b476083b0b1c064830a",
+            "fingerprint": "1404a7dda34255312f9b70319d7a9c44c726cdd4",
+            "host": "keybase.io",
+            "key_id": "9d7a9c44c726cdd4",
+            "kid": "01013721164ee7adaa759228d8f48414f4683a2e1c23548ea09b476083b0b1c064830a",
+            "uid": "e98e8dd3ebe4d859a15c34d2492d5619",
+            "username": "indocipherable"
+        },
+        "service": {
+            "hostname": "indocipherable.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460294383,
+    "expire_in": 157680000,
+    "prev": "52105fb5455a6437a0f1169badb875b8d60952c733c01de50dde89f9e8b232e4",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIrAnicrVJbbA1BGD5ttapBijroCzYkElWzu7M7s4d4EJdyHkQfXJImJzM7s6fL
+OWePPdtz0LhFiGtTLQ1CgwqRUA9amrSSFk20VaLiEokmNB54UCEuD26zxZtH8zKZ
+f77v+7//y39nXE6gIGsxKo70DHROzurrulQVWFtQPlwtUYdtkULV0kY+cvEY4ykv
+stFmUkgCMpBVpMiyDjlHhBGCNENRMMMWxFCGFtSxShQum4qqQcwJMChEOsAqBVQ2
+gQ6xCohUIll2IsrdpGsnPCErQwAJYoyoUNE0VVYsgyKgygZDxDAhNJGim4xBQax0
+Uj5DmKMkxUttR9TEIzJi7x/4/+y7akSOG5hjxlROOWRYM4ismSpkCjQUpumy4QNT
+3E2QOBdoO8Ec005WcpfQGJe2lUjiL22b3I/Xn+efuNKo7VVW0d8TJl3Hc0wnJlCV
+npdMhXwVb0vSp2U4jfwRjFChIZIVjDR3U7aTkEKyQJqe7XeQoQ4UA6pYLZH45qTt
+8ojtIzSkYyCO34enhaSmyECzqAY1jehQRQRYIjqDEkYx0ihmOjA0xUSqagKZcQ0w
+xrFhGRxTRVW4n3uKb0o4UggKmyQqJFN2NEG8KlfMf6uzYlQgqyCQl5vtb1ygYEzh
+3z3cWzf6h7FuYH9325uTMyrsdzWD8Ua9uGX7k963efHSx+UdS/pXfnPCR/MGdjag
+2UOZ7OXHp21r/nBz65jCNQdzLg8VucH23tuZOcEHF0s3rxg/nM/3vbLjiRK9/Em6
+rrx7IbJqMufD6NGL+y8rnnc9rL0aX1q0e6gH77AayamljU3Tk7FVyxZYkU+ZHdOy
+bk2ZOSUdRsNzgxk4P1wfLf4+a/vrY7fx9OCFwgO7Ntz9mS9lT110tv1z2Y2KNMsd
+jO/9TI+M/bondq/o+up5p8/EWhretG6d1Og+nXjFef/R6Q8vaepoffBsfW1bbdGE
+E8HqwffnDqVpc84rqf7L4TzQ/LrsSN+12C/jNUGQ
+=Dqsf
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/indocipherable
+
+==================================================================
